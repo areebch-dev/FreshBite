@@ -54,7 +54,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/fresh-bite.git
+   git clone https://github.com/areebch-dev/FreshBite.git
    
 2. Navigate to the project directory
    ```bash
